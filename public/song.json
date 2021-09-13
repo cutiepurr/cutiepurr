@@ -1,0 +1,194 @@
+{
+    "all_songs": [
+        {
+            "name": "Singer 2020",
+            "img": "https://c.tenor.com/1oY9uvf71-kAAAAC/zhou-shen-charlie-zhou-shen.gif",
+            "label": "From Singer 2020 Ep 2 (GIF)",
+            "description": "",
+            "songs": [
+                {
+                    "name": "Big Fish (大鱼)",
+                    "rate": 9,
+                    "YouTube": "https://youtu.be/HMWyN68VpSU"
+                },
+                {
+                    "name": "Longing for a Whole-hearted Lover (愿得一心人)",
+                    "rate": 10,
+                    "YouTube": "https://youtu.be/8o8Xpqv6PlI"
+                },
+                {
+                    "name": "The Answer to Everything (能解答一切的答案)",
+                    "rate": 10,
+                    "YouTube": "https://youtu.be/6Zsuy6ShxG0"
+                },
+                {
+                    "name": "No Question (无问)",
+                    "rate": 9,
+                    "YouTube": "https://youtu.be/9bWNHPuCxr8"
+                },
+                {
+                    "name": "Monsters",
+                    "rate": 10,
+                    "YouTube": "https://youtu.be/XGBUwxHE1pk"
+                },
+                {
+                    "name": "Ой цветет калина (Oh, Kalina's blooming) & Baby, До Свидания (Baby, goodbye)",
+                    "rate": 10,
+                    "YouTube": "https://youtu.be/gjYE6dFZ1co"
+                },
+                {
+                    "name": "Dalabengba (达拉崩吧)",
+                    "rate": 10,
+                    "YouTube": "https://youtu.be/XHedu3KcPP0"
+                },
+                {
+                    "name": "Ring the doorbell to listen to it myself (自己按门铃自己听)",
+                    "rate": 9,
+                    "YouTube": "https://youtu.be/XHedu3KcPP0"
+                }
+            ]
+        },
+        {
+            "name": "Our Songs S1",
+            "img": "https://lh4.googleusercontent.com/Rie6q0TTKGfRh4viJzD2OdLtD0xnQfY9VC-gf51HX0wo_j82KJO-CYgJc6ws27AsAsXqNwHtaO4ZDhZyMh8LEd6oPjDbg8Cno-Zs3Y5gDDYSRM2XaNhyTVoaUg3FQXoBUroC_MTt",
+            "label": "From Our Songs S1 Ep12 (GIF)",
+            "description": "Mainly duet with Hacken Lee. I love all of the songs sang by them!",
+            "songs": [
+                {
+                    "name": "Chase (追) <i>ft. Hacken Lee</i>",
+                    "rate": 10,
+                    "YouTube": "https://youtu.be/ulU9z-tTW-4"
+                },
+                {
+                    "name": "Half-moon Serenade (月半小夜曲) <i>ft. Hacken Lee</i>",
+                    "rate": 10,
+                    "YouTube": "https://youtu.be/W91o7Ze9OYg"
+                },
+                {
+                    "name": "My Heart Seems Being Cut (心如刀割) <i>ft. Hacken Lee</i>",
+                    "rate": 10,
+                    "YouTube": "https://youtu.be/ZoljOZAsVII"
+                },
+                {
+                    "name": "Disco Alaskan Wolves (野狼Disco) <i>ft. Hacken Lee</i>",
+                    "rate": 8.5,
+                    "YouTube": "https://youtu.be/2mm_aszuAgY"
+                },
+                {
+                    "name": "Carmen <i>ft. Hacken Lee, Fei Yuqing, Timmy Xu</i>",
+                    "rate": 8.5,
+                    "YouTube": "https://youtu.be/5QWPvGDe7cA"
+                },
+                {
+                    "name": "That Sea & Listening to the Sea (那片海&听海) <i>ft. Hacken Lee</i>",
+                    "rate": 10,
+                    "YouTube": "https://youtu.be/R0YQs0f6PtM"
+                },
+                {
+                    "name": "People in Love (天下有情人) <i>ft. Hacken Lee</i>",
+                    "rate": 10,
+                    "YouTube": "https://youtu.be/W9sITEf1tO0"
+                },
+                {
+                    "name": "Auditorium of Taikaido (大会堂演奏厅) <i>ft. Hacken Lee</i>",
+                    "rate": 9,
+                    "YouTube": "https://youtu.be/Q6E8GDOo0H8"
+                },
+                {
+                    "name": "Painting (画) <i>ft. Hacken Lee</i>",
+                    "rate": 10,
+                    "YouTube": "https://youtu.be/JhoFIxT_woo"
+                },
+                {
+                    "name": "Your First Name, My Last Name (你的名字我的姓氏) <i>ft. Hacken Lee</i>",
+                    "rate": 9,
+                    "YouTube": "https://youtu.be/r2v1VuMuv4s"
+                },
+                {
+                    "name": "Leaving with no Greeting (不见就散) <i>ft. Hacken Lee</i>",
+                    "rate": 10,
+                    "YouTube": "https://youtu.be/HdB1VYY6gpg"
+                }
+            ]
+        },
+        {
+            "name": "Our Songs S2",
+            "img": "",
+            "label": "",
+            "description": "Duet with Hacken Lee. They're invited as guest singers.",
+            "songs": [
+                {
+                    "name": "Change in Love (爱情转移) <i>ft. Hacken Lee</i>",
+                    "rate": 10,
+                    "YouTube": "https://youtu.be/k6tS0v3MkaQ"
+                },
+                {
+                    "name": "Love comes suddenly (突如其来的爱情/Love Story wa Totsuzen ni) <i>ft. Hacken Lee</i>",
+                    "rate": 9,
+                    "YouTube": "https://youtu.be/Z7fC1A6EmDg"
+                }
+            ]
+        },
+        {
+            "name": "C-929 Concert",
+            "img": "./zhoushen-c929.gif",
+            "label": "From C-929 Concert Suzhou (Hakuna Matata) (GIF)",
+            "description": "Zhou Shen's concert in 2019-2020. There're more pieces that I love, but quite lazy to list them out.",
+            "songs": [
+                {
+                    "name": "A Bloody Love Story (血腥愛情故事)",
+                    "rate": 10,
+                    "YouTube": "https://youtu.be/VkGdEYCpsVM"
+                },
+                {
+                    "name": "Hakuna Matata (Lion King OST) Beijing - not recommend for those who don't understands Chinese - he tells lots of jokes - no English subtitle",
+                    "rate": 10,
+                    "YouTube": "https://youtu.be/fQwetLgeSJI"
+                }
+            ]
+        },
+        {
+            "name": "Others",
+            "img": "https://c.tenor.com/MuQDJnOLYNkAAAAC/%E5%91%A8%E6%B7%B1-ch%C3%A2u-th%C3%A2m.gif",
+            "label": "",
+            "description": "Mainly OSTs",
+            "songs": [
+                {
+                    "name": "The Whale Transformed into an Isolated Island (化身孤岛的鲸)",
+                    "rate": 10,
+                    "YouTube": "https://youtu.be/FefwLMn143M"
+                },
+                {
+                    "name": "Clumpsy Love (拙慕)",
+                    "rate": 9,
+                    "YouTube": "https://youtu.be/fCyLiJKE3pI"
+                },
+                {
+                    "name": "Sanctuary",
+                    "rate": 8.5,
+                    "YouTube": "https://youtu.be/63LJOxv1al0"
+                },
+                {
+                    "name": "Passing by the Deserted City (荒城渡)",
+                    "rate": 9,
+                    "YouTube": "https://youtu.be/2dOvdrbfuGc"
+                },
+                {
+                    "name": "With the light and the dust (?) (和光同尘)",
+                    "rate": 9,
+                    "YouTube": "https://youtu.be/Jig8P2DMXfg"
+                },
+                {
+                    "name": "Upwards to the Moon (左手指月) <i>ft. Sa Dingding</i>",
+                    "rate": 10,
+                    "YouTube": "https://youtu.be/wG2hbtw1ifg"
+                },
+                {
+                    "name": "The Freely Walking Flower (自由行走的花) <i>ft. Sa Dingding</i>",
+                    "rate": 10,
+                    "YouTube": "https://youtu.be/IsO4piW9GB4"
+                }
+            ]
+        }
+    ]
+}
