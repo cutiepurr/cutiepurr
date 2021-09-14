@@ -1,6 +1,6 @@
 var songContainer = document.querySelector("#songlist")
 var collapseLink = document.querySelector('#showAll')
-fetch('./song.json')
+fetch('./songs.json')
 .then(response => {return response.json()})
 .then(data => {
     console.log(data)
@@ -8,12 +8,12 @@ fetch('./song.json')
 })
 function showSongs(data) {
     for (var show of data) {
-        songContainer.innerHTML += `<h3>${show.name}</h3>
-        <p><i>${show.description}</i></p>
-        <img src="${show.img}" class='img'>
-        <br><label><i>${show.label}</i></label>`
+        songContainer.innerHTML += `<h3>${show.name}</h3>`
+        // <p><i>${show.description}</i></p>
+        // <img src="${show.img}" class='img'>
+        // <br><label><i>${show.label}</i></label>`
         for (var song of show.songs) {
-            songContainer.innerHTML += `<p><a href="${song.YouTube}" target="_blank" title="Listen on YouTube" style='text-decoration:none;'><i class="fab fa-youtube"></i> ${song.name}</a> || <span style='color:red;'>${song.rate}/10</span></p>`
+            songContainer.innerHTML += `<p><a href="${song.YouTube}" target="_blank" title="Listen on YouTube" style='text-decoration:none;'><i class="fab fa-youtube"></i> ${song.name}</a> || <span style='color:#c72d22;'>${song.rate}/10</span></p>`
         }
     }
 }
